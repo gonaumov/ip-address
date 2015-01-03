@@ -1,0 +1,32 @@
+body
+{
+	padding: 0 88px 88px 88px;
+	background-color: #000000;
+	color: #CCCCCC;
+	text-align: center;
+}
+input 
+{
+	width: 30px;
+}
+table{
+	margin: 30px auto;
+	border: 1px solid #FF9966;
+}
+#errmsg
+{
+	text-align: center;
+}
+div 
+{
+	text-align: center;
+}
+div.text
+{
+	text-align: justify;
+	font-weight: bold;
+}
+td
+{
+	padding: 5px;
+}
